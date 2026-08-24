@@ -1,16 +1,28 @@
-## Hi there 👋
+**Data Analyst | BS Data Analytics | Turning Complex Data into Actionable Business Insights**
 
-<!--
-**AbdulRehman-DataAnalyst/AbdulRehman-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analytics professional passionate about solving real-world business problems. I specialize in querying complex databases, performing time-series analysis, and building interactive dashboards that drive strategic decision-making.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+* **Databases & SQL:** MySQL, Advanced SQL (Window Functions, CTEs, Query Optimization, Regex)
+* **Programming:** Python (Pandas, NumPy) *[In Progress]*
+* **Visualization & BI:** Tableau, Power BI, Advanced Excel
+* **Statistical Analysis:** SPSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗄️ SQL Analytics
+
+| Project Link | Domain | Area of Analysis | Business Impact |
+| :--- | :--- | :--- | :--- |
+| **[Clinical Readmission Risk Analyzer](#)** | Healthcare | Time-Series Analysis, Advanced SQL | Built an automated pipeline using `LAG` and CTEs to identify high-risk patients, helping reduce Medicare penalty risks. |
+| **[FinTech Fraud Velocity Tracker](#)** | Finance | Rolling Windows, Risk Modeling | Designed a rolling-window query to flag suspicious transactions and unauthorized payment spikes in real-time. |
+
+---
+
+## 📊 Dashboards & Visualizations
+*(Dashboards coming soon)*
+
+---
+## 📫 Connect with me
+* **LinkedIn:** [(https://www.linkedin.com/in/abdulrehman-analytics)]
+* **Email:** [contact.abdulrehman.pk@gmail.com]
