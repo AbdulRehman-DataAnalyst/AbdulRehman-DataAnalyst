@@ -14,7 +14,7 @@ I am a data analytics professional passionate about solving real-world business 
 
 | Project Link | Domain | Area of Analysis | Business Impact |
 | :--- | :--- | :--- | :--- |
-| **[Clinical Readmission Risk Analyzer]([https://github.com/AbdulRehman-DataAnalyst/Clinical-Readmission-Analysis/blob/main/README.md])** | Healthcare | Time-Series Analysis, Advanced SQL | Built an automated pipeline using `LAG` and CTEs to identify high-risk patients, helping reduce Medicare penalty risks. |
+| **[Clinical Readmission Risk Analyzer](https://github.com/AbdulRehman-DataAnalyst/Clinical-Readmission-Analysis/blob/main/README.md)** | Healthcare | Time-Series Analysis, Advanced SQL | Built an automated pipeline using `LAG` and CTEs to identify high-risk patients, helping reduce Medicare penalty risks. |
 | **[FinTech Fraud Velocity Tracker](#)** | Finance | Rolling Windows, Risk Modeling | Designed a rolling-window query to flag suspicious transactions and unauthorized payment spikes in real-time. |
 
 ---
